@@ -4,3 +4,5 @@ opencv-contrib-python version 4.5.5.62
 Pandas
 pillow
 matplotlib
+yolov3.weight: https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
+yolov3.cfg
